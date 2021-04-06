@@ -1,0 +1,10 @@
+Crea una calculadora:
+
+Se deben solicitar al usuario dos números
+
+Se puede seleccionar entre diferentes operaciones(suma, resta, multiplicación y división).
+
+Imprimir resultados
+
+Considerar división entre cero y caracteres no definidos como operaciones.
+
